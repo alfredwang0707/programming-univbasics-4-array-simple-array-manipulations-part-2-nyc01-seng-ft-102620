@@ -18,4 +18,4 @@ def using_delete(no_offense_steven)
   no_offense_steven.delete 
 end
 
-def using_delete_at()
+def using_delete_at(famous_robots)
